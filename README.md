@@ -11,7 +11,7 @@
 ---
 ### Finalidade do diretório
 
-Diretório criado para registrar os avanços obtidos através dos exercícios e desafios de códigos desenvolvidos durante o ***Bootcamp Potência Tech JavaScript Developer by IFood***, uma oportunidade disponibilizada através da plataforma da ***DIO - Digital Innovation One***.
+Diretório criado para registrar os avanços obtidos através dos exercícios e desafios de códigos desenvolvidos durante o ***Bootcamp Potência Tech Angular Developer by IFood***, uma oportunidade disponibilizada através da plataforma da ***DIO - Digital Innovation One***.
 
 ### Descrição do Bootcamp
 
@@ -21,6 +21,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 ### Tecnologias e IDEs utilizadas
 
 - JavaScript
+- Angular JS
 - Node JS	v10.19
 - Git	v2.40
 - Github
