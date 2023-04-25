@@ -3,7 +3,7 @@
 ### Angular Developer - by IFood
 
 ---
-<div class="basicInfo" align:"justify">
+<div class="basicInfo" align:"space-between">
   
   <table align="right">
     <tr>
@@ -19,7 +19,7 @@
      <tr>
         <td>Primeiras Páginas Interativas com JavaScript</td>
         <td>10</td>
-        <td>Intermediário</td>
+        <td>Médio</td>
     </tr>
     <tr>
         <td>Exercite sua lógica com Desafios de Código em JavaScript</td>
@@ -29,12 +29,12 @@
      <tr>
         <td>Ganhando produtividade com a Plataforma Angular</td>
         <td>8</td>
-        <td>Intermediário</td>
+        <td>Médio</td>
     </tr>
      <tr>
         <td>Explorando JSON na prática com desafios de código</td>
         <td>5</td>
-        <td>Intermediário</td>
+        <td>Médio</td>
     </tr>
      <tr>
         <td>Trabalhando com Rotas e Serviços no Angular</td>
@@ -46,10 +46,10 @@
 <div class="status" align:"left">
 
 ###### Status: Em andamento
-###### Responsável: Luiz **Guilherme** Gil **Espinosa**
+###### Responsável: Guilherme Espinosa
 ###### Orientadores: Renan Johannsen
 ###### Plataforma de ensino: Digital Innovation One (DIO)
-##### Diretórios de referência: [Módulo 01](https://github.com/digitalinnovationone/javascript-developer-m1 "pastas 01 e 02").
+###### Diretórios de referência: [Módulo 01](https://github.com/digitalinnovationone/javascript-developer-m1 "pastas 01 e 02").
 </div>
 
 </div>
