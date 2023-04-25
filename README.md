@@ -1,4 +1,4 @@
-![Potencia-tech](./img/potencia-tech.webp "Potência Tech")
+![Potencia-tech](./img/potencia-tech-menor.png "Potência Tech")
 # BOOTCAMP POTÊNCIA TECH
 ### Angular Developer - by IFood
 
