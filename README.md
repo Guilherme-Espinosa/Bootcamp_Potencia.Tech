@@ -1,9 +1,11 @@
 ![Potencia-tech](./img/bootcamp-Technology_Banner.png "Potência Tech")
-# BOOTCAMP POTÊNCIA TECH
-### Angular Developer - by IFood
 
+<header>  
+<h1 align="center"> BOOTCAMP POTÊNCIA TECH </h1>
+<h3 align="center"> Angular Developer - by iFood </h3>
+</header>
 ---
-<div class="basicInfo" align="space-between">
+<div class="basicInfo" align="top">
   
   <table align="right">
     <tr>
@@ -43,7 +45,7 @@
     </tr>
 </table>
   
-<div class="status" align="left">
+<div class="status" align="bottom">
 
 ######
 - Status: Em andamento
