@@ -45,18 +45,16 @@
   
 <div class="status" align="left">
 
-<h5 align="left">
-Status: Em andamento
-Responsável: Guilherme Espinosa
-Orientadores: Renan Johannsen
-Plataforma de ensino: Digital Innovation One (DIO)
-Diretórios de referência: [Módulo 01](https://github.com/digitalinnovationone/javascript-developer-m1 "pastas 01 e 02").
-</h5>
+######
+- Status: Em andamento
+- Responsável: Guilherme Espinosa
+- Orientadores: Renan Johannsen
+- Plataforma de ensino: Digital Innovation One (DIO)
+- Diretórios de referência: [Módulo 01](https://github.com/digitalinnovationone/javascript-developer-m1 "pastas 01 e 02").
 
 </div>
 
 </div>
-
 
 ---
 </br>
