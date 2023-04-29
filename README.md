@@ -50,10 +50,10 @@
 <font color="#03A062">
 
 - Status: Em andamento (24%)
-- Responsável: Guilherme Espinosa
-- Orientadores: Renan Johannsen
+- Responsável: <a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a>
+- Orientadores: <a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a>
 - Plataforma de ensino: <a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a>
-- Diretórios de referência: [Módulo 01](https://github.com/digitalinnovationone/javascript-developer-m1 "pastas 01 e 02").
+- Diretórios de referência: <a href="https://github.com/digitalinnovationone/javascript-developer-m1">Módulo 01</a>
 
 </font>
 </div>
@@ -94,7 +94,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
   
 ---
 
-<h3> Comentários pessoais </h3>
+<h3 align="center"> Comentários pessoais </h3>
 
 <p align="justify">
 Este bootcamp está sendo uma ótima oportunidade pra mim que tive que me ausentar um pouco dos estudos. Agora estou voltando com tudo e estou muito grato e esperançoso com esta oportunidade. Obrigado DIO e IFood.
@@ -104,6 +104,6 @@ Este bootcamp está sendo uma ótima oportunidade pra mim que tive que me ausent
 
 <h3 align="center"> Gostaria de entrar em contato comigo?
 
-<a href="(https://www.linkedin.com/in/guilherme-espinosa/">Visite meu Linkedin.</a>
+Visite meu <a href="https://www.linkedin.com/in/guilherme-espinosa/">LinkedIn</a>.
 
 </h3>
