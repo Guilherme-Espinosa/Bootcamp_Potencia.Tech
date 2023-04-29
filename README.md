@@ -15,12 +15,12 @@
         <td>Nível</td>
     </tr>
     <tr>
-        <td>Prepare-se para a jornada</td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/Apresentacao">Prepare-se para a jornada</a></td>
         <td>7</td>
         <td>Básico</td>
     </tr>
      <tr>
-        <td>Primeiras Páginas Interativas com JavaScript</td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/Paginas%20interativas%20JS">Primeiras Páginas Interativas com JavaScript</a></td>
         <td>10</td>
         <td>Médio</td>
     </tr>
@@ -77,6 +77,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 </p>
 
 </article>
+
 ---
 <h3> Tecnologias e IDEs utilizadas </h3>
 
@@ -100,8 +101,9 @@ Este bootcamp está sendo uma ótima oportunidade pra mim que tive que me ausent
 </p>
 
 ---
-<footer>
 
-<h3 align="center"> Gostaria de entrar em contato comigo? <a href="(https://www.linkedin.com/in/guilherme-espinosa/"> Visite meu Linkedin. </a> </h3>
+<h3 align="center"> Gostaria de entrar em contato comigo?
 
-</footer>
+<a href="(https://www.linkedin.com/in/guilherme-espinosa/">Visite meu Linkedin.</a>
+
+</h3>
