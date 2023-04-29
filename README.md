@@ -6,9 +6,9 @@
 </header>
 
 ---
-<div class="basicInfo" align="top">
+<div class="basicInfo">
   
-  <table align="right">
+  <table align="top">
     <tr>
         <td>Módulo</td>
         <td>Atividades</td>
@@ -47,25 +47,27 @@
 </table>
   
 <div class="status" align="bottom">
+<font color="#03A062">
 
-######
-- Status: Em andamento
+- Status: Em andamento (24%)
 - Responsável: Guilherme Espinosa
 - Orientadores: Renan Johannsen
-- Plataforma de ensino: Digital Innovation One (DIO)
+- Plataforma de ensino: <a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a>
 - Diretórios de referência: [Módulo 01](https://github.com/digitalinnovationone/javascript-developer-m1 "pastas 01 e 02").
 
+</font>
 </div>
 
 </div>
 
 ---
 </br>
+<article align="center">
 
 <h3> Finalidade do diretório </h3>
 
 <p align="justify">
-Diretório criado para registrar os avanços obtidos através dos exercícios e desafios de códigos desenvolvidos durante o ***Bootcamp Potência Tech Angular Developer by IFood***, uma oportunidade disponibilizada através da plataforma da ***DIO - Digital Innovation One***.
+Diretório criado para registrar os avanços obtidos através dos exercícios e desafios de códigos desenvolvidos durante o <b>Bootcamp Potência Tech Angular Developer by IFood</b>, uma oportunidade disponibilizada através da plataforma da <b>DIO - Digital Innovation One</b>.
 </p>
 
 <h3> Descrição do Bootcamp </h3>
@@ -74,6 +76,7 @@ Diretório criado para registrar os avanços obtidos através dos exercícios e 
 O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focado em Angular! Com cursos, desafios de projeto, desafios de código e mentorias exclusivas, o Bootcamp Potência Tech Angular Developer - Powered by iFood traz uma experiência completa para você que quer dar um pontapé na carreira tech! As inscrições já estão abertas para pessoas de todo o Brasil, mas voltado e focado em grupos sub-representados e pessoas de baixa renda. Ao final do programa, acontecerá o Minha Carreira Tech, uma oportunidade de conhecer as empresas parceiras e ficar disponível na plataforma de talentos da DIO, além da possibilidade de conquistar prêmios pelo seu desempenho.
 </p>
 
+</article>
 ---
 <h3> Tecnologias e IDEs utilizadas </h3>
 
@@ -97,6 +100,8 @@ Este bootcamp está sendo uma ótima oportunidade pra mim que tive que me ausent
 </p>
 
 ---
-<h3 align="center"> Gostaria de entrar em contato comigo? Visite meu Linkedin. </h3>
+<footer>
 
-<p align="center"> [Visite meu LinkedIn.](https://www.linkedin.com/in/guilherme-espinosa/ "Perfil do LinkedIn") </p>
+<h3 align="center"> Gostaria de entrar em contato comigo? <a href="(https://www.linkedin.com/in/guilherme-espinosa/"> Visite meu Linkedin. </a> </h3>
+
+</footer>
