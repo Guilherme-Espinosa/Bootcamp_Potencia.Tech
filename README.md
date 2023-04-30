@@ -1,4 +1,4 @@
-![Potencia-tech](./img/bootcamp-Technology_Banner.png "Potência Tech")
+![Potencia-tech](./assets/bootcamp-Technology_Banner.png "Potência Tech")
 
 <header>  
 <h1 align="center"> BOOTCAMP POTÊNCIA TECH </h1>
