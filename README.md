@@ -6,9 +6,29 @@
 </header>
 
 ---
-<div class="basicInfo">
+<div class="basicInfo" align="center">
   
-  <table align="top">
+  <div class="status" align="top">
+    <table align="space-between">
+      <tr>
+        <td>Status:</td> <td>Em andamento (24%)</td>
+      </tr>
+      <tr>
+        <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
+      </tr>
+      <tr>
+        <td>Orientadores:</td> <td><a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a></td>
+      </tr>
+      <tr>
+        <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
+      </tr>
+      <tr>
+        <td>Diretórios de referência:</td> <td><a href="https://github.com/digitalinnovationone/javascript-developer-m1">Módulo 01</a></td>
+      </tr>
+    </table>
+  </div>
+  
+  <table class="activities" align="bottom">
     <tr>
         <td>Módulo</td>
         <td>Atividades</td>
@@ -19,7 +39,7 @@
         <td>7</td>
         <td>Básico</td>
     </tr>
-     <tr>
+    <tr>
         <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/Paginas%20interativas%20JS">Primeiras Páginas Interativas com JavaScript</a></td>
         <td>10</td>
         <td>Médio</td>
@@ -29,48 +49,35 @@
         <td>5</td>
         <td>Básico</td>
     </tr>
-     <tr>
+    <tr>
         <td>Ganhando produtividade com a Plataforma Angular</td>
         <td>8</td>
         <td>Médio</td>
     </tr>
-     <tr>
+    <tr>
         <td>Explorando JSON na prática com desafios de código</td>
         <td>5</td>
         <td>Médio</td>
     </tr>
-     <tr>
+    <tr>
         <td>Trabalhando com Rotas e Serviços no Angular</td>
         <td>4</td>
         <td>Avançado</td>
     </tr>
-</table>
-  
-<div class="status" align="bottom">
-<font color="#03A062">
-
-- Status: Em andamento (24%)
-- Responsável: <a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a>
-- Orientadores: <a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a>
-- Plataforma de ensino: <a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a>
-- Diretórios de referência: <a href="https://github.com/digitalinnovationone/javascript-developer-m1">Módulo 01</a>
-
-</font>
-</div>
-
+  </table>
 </div>
 
 ---
-</br>
+
 <article align="center">
 
-<h3> Finalidade do diretório </h3>
+<h3 align="center"> Finalidade do diretório </h3>
 
 <p align="justify">
 Diretório criado para registrar os avanços obtidos através dos exercícios e desafios de códigos desenvolvidos durante o <b>Bootcamp Potência Tech Angular Developer by IFood</b>, uma oportunidade disponibilizada através da plataforma da <b>DIO - Digital Innovation One</b>.
 </p>
 
-<h3> Descrição do Bootcamp </h3>
+<h3 align="center"> Descrição do Bootcamp </h3>
 
 <p align="justify">
 O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focado em Angular! Com cursos, desafios de projeto, desafios de código e mentorias exclusivas, o Bootcamp Potência Tech Angular Developer - Powered by iFood traz uma experiência completa para você que quer dar um pontapé na carreira tech! As inscrições já estão abertas para pessoas de todo o Brasil, mas voltado e focado em grupos sub-representados e pessoas de baixa renda. Ao final do programa, acontecerá o Minha Carreira Tech, uma oportunidade de conhecer as empresas parceiras e ficar disponível na plataforma de talentos da DIO, além da possibilidade de conquistar prêmios pelo seu desempenho.
@@ -79,7 +86,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 </article>
 
 ---
-<h3> Tecnologias e IDEs utilizadas </h3>
+<h3 align="center"> Tecnologias e IDEs utilizadas </h3>
 
 - JavaScript
 - Angular JS
