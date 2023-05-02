@@ -1,3 +1,5 @@
+/* Em suma, um objeto literal é uma coleção dinâmica de chaves e valores. Como no exemplo adiante em que o objeto "Vitor" possui os valores os dados/métodos "nome" e "idade", com os valores atribuídos.*/
+
 const vitor = {
     nome: 'Vitor J. Guerra',
     idade: 25,
@@ -9,13 +11,13 @@ console.log(vitor.idade);
 console.log(vitor);
 /* O que vimos aqui foi que a constante em si já é um objeto e que esse objeto agrupa outros dados dentro dele. Possibilitando que esse objeto seja invocado em sua integralidade ou por partes específicas, adicionando um ponto logo após a citação do objeto e inserindo nome da propriedade, já em seguida do ponto, que guarda a informação desejada.
 Invocar o objeto de forma geral é apenas utilizar, por exemplo o nome da função ou constante, enquanto que para termos uma especifidade é necessário especificar também a propriedade exata que contém a informação desejada.*/
-// ---
+// --- Agora vamos a uma incrementação dinâmica do objeto literal
 vitor.altura = 1.69;
 
 console.log(vitor.altura);
 console.log(vitor);
 
-/* Agora, através do exemplo acima, podemos perceber que também é possível adicionarmos novos atributos a um objeto, mesmo que o façamos desde outras partes do código. Aproveite pra executar o arquivo pelo Node ou através do depurador do VS Code para ver as diferenças desses códigos.*/
+/* Agora, através do exemplo acima, podemos perceber que também é possível adicionarmos novos atributos a um objeto, mesmo que o façamos desde outras partes do código. Aproveite pra executar o arquivo pelo NodeJS ou através do depurador do VS Code para ver as diferenças desses códigos.*/
 // ---
 
 delete vitor.nome;

@@ -1,4 +1,4 @@
-
+// Classe é uma definição do que deve ser um objeto (como uma espécie de formulário em que preencheremos com os objetos).
 class Pessoa {
     nome;
     idade;
@@ -7,7 +7,7 @@ class Pessoa {
     constructor(nome, idade) {
         this.nome = nome;
         this.idade = idade;
-        this.anoDeNascimento = 2022 - idade;
+        this.anoDeNascimento = 2023 - idade;
     }
 }
 
@@ -20,8 +20,8 @@ function compararPessoas(p1, p2) {
         console.log(`${p1.nome} e ${p2.nome} tem a mesma idade`);
     }
 }
-
+// Instância é uma ocorrência daquele objeto.
 const vitor = new Pessoa('Vitor', 25);
-const renan = new Pessoa('Renan', 30);
+const renan = new Pessoa('Renan', 34);
 
 compararPessoas(vitor, renan);
