@@ -90,7 +90,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 
 - JavaScript
 - Angular JS
-- Node JS	v10.19
+- Node JS	v18.16
 - Git	v2.40
 - Github
 - Ghostwriter
