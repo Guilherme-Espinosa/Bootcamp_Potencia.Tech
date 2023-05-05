@@ -35,12 +35,12 @@
         <td>Nível</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/Apresentacao">Prepare-se para a jornada</a></td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/thilha1">Prepare-se para a jornada</a></td>
         <td>7</td>
         <td>Básico</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/Paginas%20interativas%20JS">Primeiras Páginas Interativas com JavaScript</a></td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha2">Primeiras Páginas Interativas com JavaScript</a></td>
         <td>10</td>
         <td>Médio</td>
     </tr>
