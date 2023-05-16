@@ -23,6 +23,7 @@ console.log(series);
 const aluno2 = {nome: 'Maria', idade: '12 anos', serie: 'quinta série'};
 console.log(aluno2);
 console.log(aluno2.idade);
+console.table(aluno2);
 /*
 É necessário ter em mente que:
     Os parênteses "()" servem para:
