@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (24%)</td>
+        <td>Status:</td> <td>Em andamento (29%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -40,22 +40,22 @@
         <td>Básico</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha2">Primeiras Páginas Interativas com JavaScript</a></td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha2">Páginas Interativas com JavaScript</a></td>
         <td>10</td>
         <td>Médio</td>
     </tr>
     <tr>
-        <td>Exercite sua lógica com Desafios de Código em JavaScript</td>
+        <td>Lógica com Desafios de Código em JavaScript</td>
         <td>5</td>
         <td>Básico</td>
     </tr>
     <tr>
-        <td>Ganhando produtividade com a Plataforma Angular</td>
+        <td>Produtividade com a Plataforma Angular</td>
         <td>8</td>
         <td>Médio</td>
     </tr>
     <tr>
-        <td>Explorando JSON na prática com desafios de código</td>
+        <td>JSON na prática com desafios de código</td>
         <td>5</td>
         <td>Médio</td>
     </tr>
