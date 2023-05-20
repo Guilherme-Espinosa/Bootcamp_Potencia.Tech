@@ -93,9 +93,9 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 ---
 <h3 align="center"> Tecnologias e IDEs utilizadas </h3>
 <ul>
-	<li> HTML5 (estrutura das páginas web dos projetos web)</li>
+	<li> HTML5 (estrutura dos projetos web)</li>
 	<li> CSS (estilização e responsividade dos projetos web)</li>
-	<li> JavaScript (interatividade)</li>
+	<li> JavaScript (interatividade e processamento dos projetos)</li>
 	<li> APIs (facilitar e simplificar a criação dos projetos)</li>
 	<li> Angular JS (além de ser o objeto principal do estudo, serve para dinamicidade e escalabilidade dos futuros projetos)</li>
 	<li> Node JS	v18.16 (processamento, execução e recursos adicionais para o JavaScript)</li>
