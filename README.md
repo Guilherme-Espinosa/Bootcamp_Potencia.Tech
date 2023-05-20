@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (34%)</td>
+        <td>Status:</td> <td>Em andamento (37%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -25,8 +25,13 @@
       <tr>
         <td>Diretórios de referência:</td> <td><a href="https://github.com/digitalinnovationone/javascript-developer-m1">Módulo 01</a></td>
       </tr>
+      <tr>
+        <td>Projetos</td> <td><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></td>
+      </tr>
     </table>
   </div>
+  
+---
   
   <table class="activities" align="bottom">
     <tr>
@@ -87,13 +92,17 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 
 ---
 <h3 align="center"> Tecnologias e IDEs utilizadas </h3>
-
-- JavaScript
-- Angular JS
-- Node JS	v18.16
-- Git	v2.40
-- Github
-- Ghostwriter
+<ul>
+	<li> HTML5 (estrutura das páginas web dos projetos web)</li>
+	<li> CSS (estilização e responsividade dos projetos web)</li>
+	<li> JavaScript (interatividade)</li>
+	<li> APIs (facilitar e simplificar a criação dos projetos)</li>
+	<li> Angular JS (além de ser o objeto principal do estudo, serve para dinamicidade e escalabilidade dos futuros projetos)</li>
+	<li> Node JS	v18.16 (processamento, execução e recursos adicionais para o JavaScript)</li>
+	<li> Git	v2.40 (versionamento)</li>
+	<li> Github (hospedagem e divulgação do projeto)</li>
+	<li> Ghostwriter (edição de arquivos Markdown - MD)</li>
+</ul>
 
   <p align="justify">
   Obs. O sistema operacional utilizado durante todo o estudo, realização de exercícios, desafios de código e manipulação dos arquivos foi o Linux Mint 20.3 - Una (Debian).
