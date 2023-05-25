@@ -17,7 +17,11 @@
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
       </tr>
       <tr>
-        <td>Orientadores:</td> <td><a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a></td>
+        <td>Orientadores:</td>
+        <td><ul>
+        		<li><a href="https://www.linkedin.com/in/renanjpaula/">Renan Johannsen</a></li>
+        		<li><a href="https://www.linkedin.com/in/felipe-me/">Felipe Aguiar</a></li>
+        	</ul>
       </tr>
       <tr>
         <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
