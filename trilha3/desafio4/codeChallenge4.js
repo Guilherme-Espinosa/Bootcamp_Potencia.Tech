@@ -20,7 +20,7 @@ const vegano = ehVegano ? 'Vegano' : 'Nao-vegano';
 print(`Pedido ${i}: ${prato} (${vegano}) - ${calorias} calorias`);
 }
 
-
+// Desafio 4 ok!
 
 
 
