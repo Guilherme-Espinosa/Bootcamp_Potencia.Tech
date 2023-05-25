@@ -47,7 +47,8 @@
 	        <!-- <td>Projeto 3.</td> -->
 	    </tr>
 	</table>
-</article>
+</article>  
+
 ---
   
   <table class="activities" align="bottom">
