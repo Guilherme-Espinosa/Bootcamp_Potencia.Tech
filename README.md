@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (47%)</td>
+        <td>Status:</td> <td>Em andamento (58%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -26,7 +26,7 @@
         <td>Diretórios de referência:</td> <td><a href="https://github.com/digitalinnovationone/javascript-developer-m1">Módulo 01</a></td>
       </tr>
       <tr>
-        <td>Projetos</td> 
+        <td>Projetos (diretórios)</td> 
         		<td><ol>
         		<li><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/curriculo-virtual">Currículo Virtual - DIO</a></li>
@@ -36,6 +36,18 @@
     </table>
   </div>
   
+---
+<article>
+	<h3>Deploy</h3>  
+	<p>Links para visualização online dos projetos desenvolvidos durante o bootcamp. </p>
+	<table class="activities" align="bottom">
+	    <tr>
+	        <td><a href="https://guilherme-espinosa.github.io/pokedex-DIO/">Projeto 1.</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/curriculo-virtual/">Projeto 2.</a></td>
+	        <!-- <td>Projeto 3.</td> -->
+	    </tr>
+	</table>
+</article>
 ---
   
   <table class="activities" align="bottom">
@@ -55,7 +67,7 @@
         <td>Médio</td>
     </tr>
     <tr>
-        <td>Lógica com Desafios de Código em JavaScript</td>
+        <td>	<a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha3">Lógica com Desafios de Código em JavaScript</a></td>
         <td>5</td>
         <td>Básico</td>
     </tr>
