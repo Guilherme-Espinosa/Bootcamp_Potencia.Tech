@@ -58,7 +58,8 @@ function classificarImc(Imc) {
         ('O Imc dos pacientes foi calculado em:',
             ImcPaciente1.toFixed(2), classificarImc(ImcPaciente1),
             ImcPaciente2.toFixed(2), classificarImc(ImcPaciente1),
-            ImcPaciente3.toFixed(2), classificarImc(ImcPaciente1));
+            ImcPaciente3.toFixed(2), classificarImc(ImcPaciente1)
+            );
 })();
 
 /*Fiz um pequeno experimento em cima do que foi ensinado na aula, pois eu queria saber como seria se eu quisesse utilizar a mesma function para calcular o Imc de mais de uma pessoa ao mesmo tempo. E pelo o jeito eu consequi compreender bem a utilização da função. Estou bem satisfeito com isso, apesar de que eu ainda tenho em mente que posso melhorar mais esse código, deixando ele mais "enxuto" de alguma maneira que eu ainda não sei. */

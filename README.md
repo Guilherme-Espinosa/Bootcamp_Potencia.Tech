@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (37%)</td>
+        <td>Status:</td> <td>Em andamento (47%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -26,7 +26,12 @@
         <td>Diretórios de referência:</td> <td><a href="https://github.com/digitalinnovationone/javascript-developer-m1">Módulo 01</a></td>
       </tr>
       <tr>
-        <td>Projetos</td> <td><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></td>
+        <td>Projetos</td> 
+        		<td><ol>
+        		<li><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></li>
+        		<li><a href="https://github.com/Guilherme-Espinosa/curriculo-virtual">Currículo Virtual - DIO</a></li>
+        		</ol>
+        	</td>
       </tr>
     </table>
   </div>
