@@ -34,6 +34,7 @@
         		<td><ol>
         		<li><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/curriculo-virtual">Currículo Virtual - DIO</a></li>
+        		<li><a href="https://github.com/Guilherme-Espinosa/webComponents">Web Components - DIO</a></li>        		
         		</ol>
         	</td>
       </tr>
@@ -48,7 +49,10 @@
 	    <tr>
 	        <td><a href="https://guilherme-espinosa.github.io/pokedex-DIO/">Projeto 1.</a></td>
 	        <td><a href="https://guilherme-espinosa.github.io/curriculo-virtual/">Projeto 2.</a></td>
-	        <!-- <td>Projeto 3.</td> -->
+	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 3.</a></td>	        
+	        <!-- <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 4.</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 5.</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 6.</a></td> -->
 	    </tr>
 	</table>
 </article>  
@@ -113,12 +117,13 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 </article>
 
 ---
-<h3 align="center"> Tecnologias e IDEs utilizadas </h3>
+<h3 align="center"> Tecnologias e IDEs </h3>
 <ul>
 	<li> HTML5 (estrutura dos projetos web)</li>
 	<li> CSS (estilização e responsividade dos projetos web)</li>
 	<li> JavaScript (interatividade e processamento dos projetos)</li>
 	<li> APIs (facilitar e simplificar a criação dos projetos)</li>
+	<li> Web Components (facilitar e simplificar a manutenção de código, criação e organização dentro do projeto, através de técnicas de manipulação da Shadow DOM pelo encapsulamento de elementos e estilizações)</li>
 	<li> Angular JS (além de ser o objeto principal do estudo, serve para dinamicidade e escalabilidade dos futuros projetos)</li>
 	<li> Node JS	v18.16 (processamento, execução e recursos adicionais para o JavaScript)</li>
 	<li> Git	v2.40 (versionamento)</li>
