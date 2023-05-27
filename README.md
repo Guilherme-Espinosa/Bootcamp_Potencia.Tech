@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (58%)</td>
+        <td>Status:</td> <td>Em andamento (61%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -124,6 +124,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 	<li> JavaScript (interatividade e processamento dos projetos)</li>
 	<li> APIs (facilitar e simplificar a criação dos projetos)</li>
 	<li> Web Components (facilitar e simplificar a manutenção de código, criação e organização dentro do projeto, através de técnicas de manipulação da Shadow DOM pelo encapsulamento de elementos e estilizações)</li>
+	<li> <a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/TypeScript.md">TypeScript</a> (é uma espécie de linguagem superset para o Javascript, com isso ela traz uma série de recursos interessantes como tipagem estática, interfaces, generics, entre outras.)</li>
 	<li> Angular JS (além de ser o objeto principal do estudo, serve para dinamicidade e escalabilidade dos futuros projetos)</li>
 	<li> Node JS	v18.16 (processamento, execução e recursos adicionais para o JavaScript)</li>
 	<li> Git	v2.40 (versionamento)</li>
@@ -145,8 +146,10 @@ Este bootcamp está sendo uma ótima oportunidade pra mim que tive que me ausent
 
 ---
 
+<footer align="center">
 <h3 align="center"> Gostaria de entrar em contato comigo?
 
 Visite meu <a href="https://www.linkedin.com/in/guilherme-espinosa/">LinkedIn</a>.
 
 </h3>
+</footer>
