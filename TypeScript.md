@@ -14,6 +14,7 @@
 
 <p align="justify">O TypeScript pode ser instalado por meio de três rotas de instalação, dependendo de como você pretende usá-lo: um módulo npm, um pacote NuGet ou uma extensão do Visual Studio. Se estiver usando Node.js, você deseja a versão npm. Se você estiver usando o MSBuild em seu projeto, deseja o pacote NuGet ou a extensão do Visual Studio.</p>
 
+<h5>Referência: <a href="https://www.typescriptlang.org/download">typescriptlang.org</a>.</h5>
 ---
 
 <h2 align="center">TypeScript em seu projeto</h2>
@@ -58,6 +59,26 @@ Install-Package Microsoft.TypeScript.MSBuild
 ```
 
 <p align="justify">Para tipos de projeto que não suportam Nuget, você pode usar a extensão TypeScript Visual Studio . Você pode instalar a extensão usando Extensions > Manage Extensionsno Visual Studio.</p>
+
+---
+
+<h3 align="center">Instalação Global via NPM</h3>
+		<p align="justify">Você pode usar o npm para instalar o TypeScript globalmente, isso significa que você pode usar o tsccomando em qualquer lugar do seu terminal.</p>
+
+<p align="justify">Para fazer isso, execute:
+
+```
+npm install -g typescript
+```
+Isso instalará a versão mais recente (atualmente 5.0 ).</p>
+
+<p align="justify">Uma alternativa é usar o npx quando você precisar executar tscem ocasiões pontuais.</p>
+
+<h3 align="center">Instalação Global via Visual Studio Marketplace</h3>
+
+<p align="justify">Você pode instalar o TypeScript como uma extensão do Visual Studio, o que permitirá que você use o TypeScript em muitos projetos do MSBuild no Visual Studio.</p>
+
+<p align="justify">A versão mais recente está disponível no Visual Studio Marketplace .</p>
 
 ---
 ---
