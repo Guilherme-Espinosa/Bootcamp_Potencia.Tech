@@ -1,6 +1,6 @@
-<main>
 ![Potencia-tech](./assets/bootcamp-Technology_Banner.png "Potência Tech")
 
+<main>
 <header>  
 <h1 align="center"> BOOTCAMP POTÊNCIA TECH </h1>
 <h3 align="center"> Angular Developer - by iFood </h3>
