@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (61%)</td>
+        <td>Status:</td> <td>Em andamento (66%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -81,7 +81,7 @@
         <td>Básico</td>
     </tr>
     <tr>
-        <td>Produtividade com a Plataforma Angular</td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha4">Produtividade com a Plataforma Angular</a></td>
         <td>8</td>
         <td>Médio</td>
     </tr>
