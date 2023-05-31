@@ -27,14 +27,19 @@
         <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
       </tr>
       <tr>
-        <td>Diretórios de referência:</td> <td><a href="https://github.com/digitalinnovationone/javascript-developer-m1">Diretório 01</a> <a href="https://github.com/felipeAguiarCode/angular-playground/tree/main">Diretório 02</a></td>
+        <td>Diretórios de referência:</td>
+        <td>
+        		<a href="https://github.com/digitalinnovationone/javascript-developer-m1">Diretório 01</a>
+        		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main">Diretório 02</a>
+        		<a href="https://github.com/felipeAguiarCode/angular-blog">Diretório 03</a>
+        </td>
       </tr>
       <tr>
         <td>Projetos (diretórios)</td> 
         		<td><ol>
         		<li><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/curriculo-virtual">Currículo Virtual - DIO</a></li>
-        		<li><a href="https://github.com/Guilherme-Espinosa/webComponents">Web Components - DIO</a></li>        		
+        		<li><a href="https://github.com/Guilherme-Espinosa/webComponents">Web Components - DIO</a></li>        			<li><a href="https://github.com/Guilherme-Espinosa/angular-blog-DrManhattan">Blog Angular - DIO</a></li>
         		</ol>
         	</td>
       </tr>
@@ -49,9 +54,8 @@
 	    <tr>
 	        <td><a href="https://guilherme-espinosa.github.io/pokedex-DIO/">Projeto 1.</a></td>
 	        <td><a href="https://guilherme-espinosa.github.io/curriculo-virtual/">Projeto 2.</a></td>
-	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 3.</a></td>	        
-	        <!-- <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 4.</a></td>
-	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 5.</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 3.</a></td>	            <td><a href="https://guilherme-espinosa.github.io/angular-blog-DrManhattan/">Projeto 4.</a></td>
+	        <!-- <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 5.</a></td>
 	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 6.</a></td> -->
 	    </tr>
 	</table>
@@ -125,7 +129,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 	<li> <a href="https://developer.mozilla.org/pt-BR/docs/Web/API">APIs</a> (facilitar e simplificar a criação dos projetos)</li>
 	<li> <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components">Web Components</a> (facilitar e simplificar a manutenção de código, criação e organização dentro do projeto, através de técnicas de manipulação da Shadow DOM pelo encapsulamento de elementos e estilizações)</li>
 	<li> <a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/TypeScript.md">TypeScript</a> (é uma espécie de linguagem superset para o Javascript, com isso ela traz uma série de recursos interessantes como tipagem estática, interfaces, generics, entre outras.)</li>
-	<li> <a href="https://angular.io/">Angular</a> (além de ser o objeto principal do estudo, é um que serve para dinamizar e permitir maiort escalabilidade dos futuros projetos)</li>
+	<li> <a href="https://angular.io/cli">Angular</a> (além de ser o objeto principal do estudo, é um que serve para dinamizar e permitir maiort escalabilidade dos futuros projetos)</li>
 	<li> <a href="https://nodejs.org/en">Node JS</a>	v18.16 (processamento, execução e recursos adicionais para o JavaScript)</li>
 	<li> <a href="https://git-scm.com/download/linux">Git</a>	v2.40 (versionamento)</li>
 	<li> <a href="https://github.com/">Github</a> (hospedagem e divulgação do projeto)</li>
