@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (95%)</td>
+        <td>Status:</td> <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha6/CertificadoDeConclusao  - 7A2B308A.pdf">Concluído em 30 de maio de 2023</a></td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -33,6 +33,7 @@
         		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main">Diretório 02</a>
         		<a href="https://github.com/felipeAguiarCode/angular-blog">Diretório 03</a>
         		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main/C9%20-%20Rotas/rotas">Diretório 04</a>
+        		<a href="https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone">Diretório 05</a>
         </td>
       </tr>
       <tr>
@@ -41,7 +42,7 @@
         		<li><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/curriculo-virtual">Currículo Virtual - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/webComponents">Web Components - DIO</a></li>        			<li><a href="https://github.com/Guilherme-Espinosa/angular-blog-DrManhattan">Blog Angular - DIO</a></li>
-        		<!-- <li><a href="https://github.com/Guilherme-Espinosa/angular-blog-DrManhattan">Blog Angular - DIO</a></li> -->
+        		<li><a href="https://github.com/Guilherme-Espinosa/angular-buzzfeed-quizz-clone">Clone Quiz BuzzFeed</a></li>
         		</ol>
         	</td>
       </tr>
@@ -57,8 +58,8 @@
 	        <td><a href="https://guilherme-espinosa.github.io/pokedex-DIO/">Projeto 1.</a></td>
 	        <td><a href="https://guilherme-espinosa.github.io/curriculo-virtual/">Projeto 2.</a></td>
 	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 3.</a></td>	            <td><a href="https://guilherme-espinosa.github.io/angular-blog-DrManhattan/">Projeto 4.</a></td>
-	        <!-- <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 5.</a></td>
-	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 6.</a></td> -->
+	        <td><a href="https://github.com/Guilherme-Espinosa/angular-buzzfeed-quizz-clone">Projeto 5.</a></td>
+	        <!-- <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 6.</a></td> -->
 	    </tr>
 	</table>
 </article>  
@@ -149,6 +150,10 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 <p align="justify">
 Este bootcamp está sendo uma ótima oportunidade pra mim que tive que me ausentar um pouco dos estudos. Agora estou voltando com tudo e estou muito grato e esperançoso com esta oportunidade. Obrigado DIO e IFood.
 </p>
+
+<p align="justify">Pude perceber que como tecnologia, o Framework Angular é muito expressivo, organizado e fácil de compreender (apesar dos muitos detalhes). A dificuldade talvez não esteja em entender e aprender como tudo funciona, mas sim lembrar de tantos pormenores, entretanto isso é uma coisa bem mais fácil de lidar... Basta praticar! Decidi que vou continuar a estudar e desenvolver projetos em angular e que será uma das tecnologias em que buscarei me aprofundar e me especializar, principalmente pelo fator de a ideia de organização do framework ser tão de acordo com o que eu gosto (gosto de cada coisa no seu devido cantinho rsrs).</p>  
+
+<p align="justify">Devo dizer que estou muito grato por ter concluído o bootcamp e devo deixar claro que pretendo voltar às aulas de pra poder estudar com um pouco mais de calma as últimas trilhas, poir tive que fazer um pouco mais apressado. DIO e iFood, muito obrigado pela oportunidade.</p>
 
 ---
 
