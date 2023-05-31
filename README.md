@@ -90,12 +90,12 @@
         <td>Médio</td>
     </tr>
     <tr>
-        <td>JSON na prática com desafios de código</td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha5">JSON na prática com desafios de código</a></td>
         <td>5</td>
         <td>Médio</td>
     </tr>
     <tr>
-        <td>Trabalhando com Rotas e Serviços no Angular</td>
+        <td><a href="https://github.com/Guilherme-Espinosa/Bootcamp_Potencia.Tech/tree/main/trilha6">Trabalhando com Rotas e Serviços no Angular</a></td>
         <td>4</td>
         <td>Avançado</td>
     </tr>
