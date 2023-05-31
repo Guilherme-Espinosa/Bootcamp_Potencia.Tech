@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td>Em andamento (92%)</td>
+        <td>Status:</td> <td>Em andamento (95%)</td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -32,6 +32,7 @@
         		<a href="https://github.com/digitalinnovationone/javascript-developer-m1">Diretório 01</a>
         		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main">Diretório 02</a>
         		<a href="https://github.com/felipeAguiarCode/angular-blog">Diretório 03</a>
+        		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main/C9%20-%20Rotas/rotas">Diretório 04</a>
         </td>
       </tr>
       <tr>
@@ -40,6 +41,7 @@
         		<li><a href="https://github.com/Guilherme-Espinosa/pokedex-DIO">Pokedex - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/curriculo-virtual">Currículo Virtual - DIO</a></li>
         		<li><a href="https://github.com/Guilherme-Espinosa/webComponents">Web Components - DIO</a></li>        			<li><a href="https://github.com/Guilherme-Espinosa/angular-blog-DrManhattan">Blog Angular - DIO</a></li>
+        		<!-- <li><a href="https://github.com/Guilherme-Espinosa/angular-blog-DrManhattan">Blog Angular - DIO</a></li> -->
         		</ol>
         	</td>
       </tr>
